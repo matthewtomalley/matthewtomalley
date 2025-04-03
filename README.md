@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matthew O'Malley</h1>
+<h1 align="center">Hi, I'm Matthew O'Malley</h1>
 <h3 align="center">Data Analyst from Brooklyn, NY</h3>
 
 - 🔭 I’m currently working on [Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
