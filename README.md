@@ -3,7 +3,8 @@
 
 👨‍💻 I’m currently working on:
 - [Florida Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
-- - 👨‍💻 I’m currently working on [Florida Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
+- [Ames, Iowa Housing Price Prediction](https://github.com/matthewtomalley/Ames-Housing-Price-Prediction)
+
 
 
 - 🌱 I’m currently learning **Statistics with Python, GIS**
