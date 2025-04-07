@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Matthew O'Malley</h1>
 <h3 align="center">Data Analyst from Brooklyn, NY</h3>
 
+Combining a strong analytical foundation from a Data Science and Machine Learning certification with a background in education. 
+
+My experience in curriculum development and assessment has cultivated a creative and meticulous and results-oriented approach to problem-solving, now applied to data analysis. Exceptional communication and presentation skills developed through years of making complex, abstract topics accessible to a wide range of learners. 
+
+Proficient in Python, SQL, data visualization, and machine learning techniques. Hands-on experience conducting in-depth exploratory data analysis and building predictive models, including a Florida Housing Price Prediction web application and a Data-Driven Diabetes Diagnosis project. 
+
+Equipped with a fresh lens, detail-oriented critical thinking, and results-driven dedication to uncovering actionable insights from data to support strategic objectives
+
 👨‍💻 I’m currently working on:
 - [Florida Housing Price Prediction](https://github.com/matthewtomalley/Florida-Housing-Price-Prediction)
 - [Ames, Iowa Housing Price Prediction](https://github.com/matthewtomalley/Ames-Housing-Price-Prediction)
