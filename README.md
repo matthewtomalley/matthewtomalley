@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Statistics with Python, GIS**
+🌱 I’m currently learning **Statistics with Python, GIS**
 
 
 <h3 align="left">Connect with me:</h3>
